@@ -282,7 +282,19 @@
             "selected": false
         }
     ],
-    "components": [
+    "components": 
+    [
+        {
+    "key": "mtf-hero-2026",
+    "title": {
+        "en": "Almutafawiq Hero",
+        "ar": "واجهة المتفوق الرئيسية"
+    },
+    "icon": "sicon-layout-grid",
+    "path": "home.mtf-hero",
+    "is_default": true,
+    "fields": []
+},
         {
             "key": "186b3f4f-25cf-4d3c-abca-cef7eed6f0ab",
             "title": {
